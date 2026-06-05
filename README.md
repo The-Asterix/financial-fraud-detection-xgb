@@ -1,7 +1,7 @@
 # Behavioral Fraud Detection on Imbalanced Financial Data
 
 ## Overview
-This repository contains a machine learning pipeline engineered to identify fraudulent transactions within a highly imbalanced dataset (fraud rate < 0.2%). The project focuses on cost-sensitive learning, advanced evaluation metrics, and model interpretability.
+This repository contains a machine learning pipeline engineered to identify fraudulent transactions within a highly imbalanced dataset (fraud rate < 0.2%). The project focuses on cost-sensitive learning, advanced evaluation metrics and model interpretability.
 
 ## Key Features & Techniques
 * **Handling Extreme Imbalance:** Applied **SMOTE** (Synthetic Minority Over-sampling Technique) to the training data to maximize minority-class recall without causing data leakage.
